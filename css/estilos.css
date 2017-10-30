@@ -136,8 +136,15 @@ ul, ol{
 	font-family: arial, Helvetica;
 }
 #footer{
-	background:url(../images/footer.jpg);
-	height: 260px;
+	background: #52D2F6;
+	border-radius: 0.0em;
+	margin: 0.5em auto;
+	max-width: 960px;
+	padding:0.25em;
+	text-align: center;
+	color: black;
+	/*background:url(../images/footer.jpg);
+	height: 260px; */
 	}
 
 
