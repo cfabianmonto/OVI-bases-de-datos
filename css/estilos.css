@@ -8,7 +8,7 @@ body{
 	margin: 0;
 	padding: 0;
 	background-size: cover;
-	max-height: auto;
+	height: 1200;
 
 	/*background: url(../images/fondo.jpg);
 	color:#FFF; /* # FFF color blanco */
