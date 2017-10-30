@@ -136,13 +136,13 @@ ul, ol{
 }
 #footer{
 	background: green;
-	border-radius: 0.0em;
+/*	border-radius: 0.0em;
 	margin: 0.5em auto;
 	max-width: 960px;
 	padding:0.25em;
 	text-align: center;
 	color: black;
-	height: 100px; 
+	height: 100px; */
 /*	background: url(../images/hogar y moda.jpg);
 	height: 260px; */
 	}
